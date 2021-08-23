@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Akhileshsukumaran
-- 👀 I’m interested in Software Development
+- 👀 I’m interested in Software Development and Web Development
 - 🌱 I’m currently learning Ds and Algo
 
 - 📫 How to reach me - Twitter -> @akhilesh_825
