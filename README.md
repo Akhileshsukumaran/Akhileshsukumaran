@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Akhileshsukumaran
 - 👀 I’m interested in Software Development and Web Development
-- 🌱 I’m currently learning Ds and Algo
+- 🌱 I’m currently learning Ds, Algo and web development
 
 - 📫 How to reach me - Twitter -> @akhilesh_825
 
